@@ -110,6 +110,7 @@ ecma (queries only)[^ecma] | unstable | `HFIJL` | @steelsojka
 [gosum](https://github.com/tree-sitter-grammars/tree-sitter-go-sum) | unstable | `H    ` | @amaanq
 [gotmpl](https://github.com/ngalaiko/tree-sitter-go-template) | unstable | `HF JL` | @qvalentin
 [gowork](https://github.com/omertuc/tree-sitter-go-work) | unstable | `H  J ` | @omertuc
+[gox](https://github.com/doors-dev/tree-sitter-gox) | unstable | `HFIJL` | @derstruct
 [gpg](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config) | unstable | `H  J ` | @ObserverOfTime
 [graphql](https://github.com/bkegley/tree-sitter-graphql) | unstable | `H IJ ` | @bkegley
 [gren](https://github.com/MaeBrooks/tree-sitter-gren) | unstable | `H  J ` | @MaeBrooks

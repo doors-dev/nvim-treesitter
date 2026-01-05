@@ -808,6 +808,15 @@ return {
     maintainers = { '@omertuc' },
     tier = 2,
   },
+  gox = {
+    install_info = {
+      revision = '49a694fb1eb82d3f1cd2c58253f997b9a910a6ad',
+      url = 'https://github.com/doors-dev/tree-sitter-gox',
+    },
+    maintainers = { '@derstruct' },
+    tier = 2,
+    requires = { 'go', 'html', 'javascript', 'css' },
+  },
   gpg = {
     install_info = {
       revision = '4024eb268c59204280f8ac71ef146b8ff5e737f6',
