@@ -810,7 +810,7 @@ return {
   },
   gox = {
     install_info = {
-      revision = 'aa2cea1d0fc92065347caadf327ffeb5bf3933bc',
+      revision = '9127abe39b81566b68e04eecc1c59f892955d3c7',
       url = 'https://github.com/doors-dev/tree-sitter-gox',
     },
     maintainers = { '@derstruct' },

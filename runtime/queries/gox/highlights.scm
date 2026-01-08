@@ -30,19 +30,7 @@
       ")"
     ] @punctuation.special))
 
-(gox_attr
-  [
-    "("
-    ")"
-  ] @punctuation.special)
-
 (gox_tilde_proxy
-  [
-    "("
-    ")"
-  ] @punctuation.special)
-
-(gox_tilde
   [
     "("
     ")"
@@ -66,11 +54,8 @@
     ")"
   ] @punctuation.special)
 
-(gox_tilde_block
-  [
-    "("
-    ")"
-  ] @punctuation.special)
+
+(gox_redundant) @comment.warning
 
 (gox_tilde_comment
   (gox_tilde_marker) @comment)
